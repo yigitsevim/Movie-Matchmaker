@@ -1,7 +1,7 @@
 # Movie-Matchmaker
 
 ## This project consists of 2 parts: 
-## Part 1:
+## (Part 1:)['https://github.com/yigitsevim/Movie-Matchmaker/blob/main/movie_scraping.ipynb']
 **Web Scraping** and **Data Collection** from a LetterBoxd profile. 
 
 
