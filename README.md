@@ -10,3 +10,6 @@ Have you ever recommended a movie to a friend that you really liked and they hat
 Everyone has their unique taste and even movie that has a high rating from a large audience may not suit your liking sometimes.
 
 I tried to overcome this issue by utilizing Data Mining, Analysis, and Machine Learning. With this approach, you can have a close estimation on how much you are going to like a movie before watching it.
+
+---
+Both parts include comments but for detailed explanation you can check [my article](https://yigitsevim.medium.com/your-movie-matchmaker-using-data-mining-to-find-films-youll-love-3382d9478bf3) about this project.
