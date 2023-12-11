@@ -15,5 +15,5 @@
 ## Step 3: Train Model
 ![](images/train_model.png)
 
-## Step 4: Download Model if youd like to use for later
+## Step 4: Download RFR Model if you'd like to keep it.
 ![](images/download_model.png)
