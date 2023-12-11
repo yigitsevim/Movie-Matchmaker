@@ -6,3 +6,5 @@
 ---
 ## Step 1: Main Screen
 ![](images/main_screen.png)
+
+## Step 2: Upload Scraped Profile or Enter LetterBoxd Username to Scrape the Profile From Scratch
