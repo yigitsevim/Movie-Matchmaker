@@ -4,7 +4,7 @@
 #### Here I created a Streamlit app to scrape your Letterboxd profile and train the predictor model using Streamlit UI.
 #### To run the app use the **streamlit run movie_app.py** command on console.
 ---
-## Step 1: Go into Main Screen
+## Step 1: Go into Main Screen with the localhost url on console
 ![](images/main_screen.png)
 
 ## Step 2: Upload Scraped Profile or Enter LetterBoxd Username to Scrape the Profile From Scratch
