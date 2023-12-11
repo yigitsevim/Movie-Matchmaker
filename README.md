@@ -10,5 +10,6 @@ Everyone has their unique taste and even movie that has a high rating from a lar
 
 I tried to overcome this issue by utilizing Data Mining, Analysis, and Machine Learning. With this approach, you can have a close estimation on how much you are going to like a movie before watching it.
 
----
 Both parts include comments but for detailed explanation you can check [my article](https://yigitsevim.medium.com/your-movie-matchmaker-using-data-mining-to-find-films-youll-love-3382d9478bf3) about this project.
+---
+I converted the project into a Streamlit app and put guidelines on how to use in in the **app** folder.
