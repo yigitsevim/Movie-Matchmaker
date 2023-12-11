@@ -8,3 +8,12 @@
 ![](images/main_screen.png)
 
 ## Step 2: Upload Scraped Profile or Enter LetterBoxd Username to Scrape the Profile From Scratch
+
+![](images/upload_data.png)
+OR
+![](images/scrape_data.png)
+## Step 3: Train Model
+![](images/train_model.png)
+
+## Step 4: Download Model if youd like to use for later
+![](images/download_model.png)
